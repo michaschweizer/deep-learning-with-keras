@@ -1,5 +1,5 @@
 # Aerial Cactus Identification
-### Yoo Na Cha, Jordan Manchev, Nupur Neti, Michael Schweizer
+### Michael Schweizer, Yoo Na Cha, Jordan Manchev, Nupur Neti
 
 ## Project Description
 
